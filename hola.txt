@@ -1,3 +1,0 @@
-ByContract,A,Fabian,Mon Dec 12 00:00:00 COT 2016,2,1000.0
-ByContract,A,Fabian,Mon Dec 12 00:00:00 COT 2016,2,1000.0
-ByContract,A,Fabian,Mon Dec 12 00:00:00 COT 2016,2,1000.0

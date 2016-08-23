@@ -7,7 +7,7 @@ package datos;
 
 /**
  * Clase que gestiona la informacion de las personas
- * @author Fabian Giraldo
+ * @author Nicolas
  * @since 29/07/2016
  * @version 1
  */

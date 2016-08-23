@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author B106 PC-11
+ * @author Nico
  */
 public class Administrative extends Employee{
     protected String category;

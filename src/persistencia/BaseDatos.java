@@ -12,13 +12,13 @@ import java.io.IOException;
 
 /**
  *
- * @author B106 PC-11
+ * @author Nico
  */
 public class BaseDatos {
-    public void almacenar(Person person){
+    public void almacenar(String universidad, Person person){
         FileWriter escritura = null;
         try {
-            File archivo = new File("hola.txt");
+            File archivo = new File(universidad + ".txt");
             if(archivo.exists()){
                 System.out.println("existe");
             }else{
